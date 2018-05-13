@@ -1,4 +1,6 @@
-﻿C#版本历史 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
+﻿主要介绍C#各个语言版本新增的特性
+
+C#版本历史 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 
 Franmework、CLR、C# 版本关系 http://www.vajhoej.dk/arne/articles/dotnet46_cs7.html
 .NET framework	.NET runtime	C# language/compiler	Visual Studio IDE	Release date
