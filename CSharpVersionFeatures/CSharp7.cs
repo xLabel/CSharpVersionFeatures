@@ -8,7 +8,7 @@ namespace CSharpVersionFeatures
 {
     /// <summary>
     /// 1、Out variables
-    /// 2、Tuples and deconstruction（元组、元组结构）
+    /// 2、Tuples and deconstruction（元组、元组解构）
     /// 3、Pattern matching（模式匹配）
     /// 4、Local functions（局部函数）
     /// 5、Expanded expression bodied members（）
